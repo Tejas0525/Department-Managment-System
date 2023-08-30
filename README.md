@@ -1,2 +1,9 @@
-# Department-Managment-System
-This is the project for our department of electronics &amp; telecommunication of NBN STIC, Pune. This was my DBMS project. 
+## Online Department Management System
+
+## Configure
+
+###First create your database
+###Change the database name in db_con.php file
+###Import the dept.sql file into your server
+
+You are now free to use this system
